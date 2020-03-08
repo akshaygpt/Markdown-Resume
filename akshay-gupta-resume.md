@@ -25,7 +25,7 @@
 
 ---
 
-### __`TECHNICAL SKILLS`__  :1st_place_medal:
+### __`TECHNICAL SKILLS`__ :trophy: 
 
 __`Languages`__`: JavaScript, Python`
 
@@ -71,7 +71,7 @@ __`Trainee`__,` People Interactive - Mumbai, India` `(Jan’16 – Nov’16)`
 
 ---
 
-### __`LEADERSHIP AND AWARDS`__ :trophy:
+### __`LEADERSHIP AND AWARDS`__ :1st_place_medal:
 
 - `Presented an ESG based product idea for improving Gen Z investments in Grant Thornton Idea Data Jam` `(Nov’19)`
 - `Awarded CSCI Graduate Fellowship 2019 with scholarship at Indiana University` `(2019)`
