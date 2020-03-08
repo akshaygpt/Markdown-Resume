@@ -56,7 +56,7 @@ __`User Interface Developer`__,` Mindtickle - Pune, India` `(June’17 – Feb�
 - `Worked towards solving bugs and maintaining the user interfaces using React, CSS`
 
 __`Freelancer Web Developer`__,` Sikkim Temi Tea, Remote` `(Dec’16 – May’17)`
-- `Developed a mobile-friendly website sikkimtemitea.com with a blog, an email client and hosting, with a team of 2 designers`
+- `Developed a mobile-friendly website [sikkimtemitea.com](http://sikkimtemitea.com) with a blog, an email client and hosting, with a team of 2 designers`
 
 __`Trainee`__,` People Interactive - Mumbai, India` `(Jan’16 – Nov’16)`
 - `Developed user interfaces using HTML and CSS and interacted with designers for UX needs`
