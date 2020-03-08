@@ -65,9 +65,9 @@ __`Trainee`__,` People Interactive - Mumbai, India` `(Jan’16 – Nov’16)`
 
 ### __`PERSONAL / OPEN-SOURCE PROJECTS`__ :bulb:
 
-- [`Cloudmesh Multi-Cloud Management GUI`](github.com/cloudmesh/cloudmesh-javascript)
+- [`Cloudmesh Multi-Cloud Management GUI`](https://github.com/cloudmesh/cloudmesh-javascript)
 
-- [`Weather Prediction Distributed System`](github.com/airavata-courses/IU-Witcher-2020)
+- [`Weather Prediction Distributed System`](https://github.com/airavata-courses/IU-Witcher-2020)
 
 ---
 
