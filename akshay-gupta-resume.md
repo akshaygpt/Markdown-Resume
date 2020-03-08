@@ -6,7 +6,7 @@
 
 ---
 
-## __`EDUCATION`__
+### __`EDUCATION`__ :man_student:
 
 #### `Indiana University` `(May’21)`
 
@@ -25,7 +25,7 @@
 
 ---
 
-## __`TECHNICAL SKILLS`__
+### __`TECHNICAL SKILLS`__  :1st_place_medal:
 
 __`Languages`__`: JavaScript, Python`
 
@@ -39,7 +39,7 @@ __`Others`__`: JIRA, Clubhouse, GitHub, Invision, Figma`
 
 ---
 
-## __`EXPERIENCE`__
+### __`EXPERIENCE`__ :chart_with_upwards_trend:
 
 __`Lead Front end Developer`__ `(Part-time), Delve Learning - Bloomington, IN, USA` `(Sep’19 - Current)`
 - `Building the UI for Critical Web Reader, a learning software for students to evaluate online information better`
@@ -63,7 +63,7 @@ __`Trainee`__,` People Interactive - Mumbai, India` `(Jan’16 – Nov’16)`
 
 ---
 
-## __`PERSONAL / OPEN-SOURCE PROJECTS`__
+### __`PERSONAL / OPEN-SOURCE PROJECTS`__ :bulb:
 
 - [`Cloudmesh Multi-Cloud Management GUI`](github.com/cloudmesh/cloudmesh-javascript)
 
@@ -71,7 +71,7 @@ __`Trainee`__,` People Interactive - Mumbai, India` `(Jan’16 – Nov’16)`
 
 ---
 
-### __`LEADERSHIP AND AWARDS`__
+### __`LEADERSHIP AND AWARDS`__ :trophy:
 
 - `Presented an ESG based product idea for improving Gen Z investments in Grant Thornton Idea Data Jam` `(Nov’19)`
 - `Awarded CSCI Graduate Fellowship 2019 with scholarship at Indiana University` `(2019)`
@@ -80,6 +80,6 @@ __`Trainee`__,` People Interactive - Mumbai, India` `(Jan’16 – Nov’16)`
 
 ---
 
-### __`INTERESTS`__
+### __`INTERESTS`__ :unicorn:
 
 :guitar: :video_game: :ping_pong:
