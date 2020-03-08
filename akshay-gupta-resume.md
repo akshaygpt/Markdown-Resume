@@ -1,4 +1,4 @@
-# :point_right: `Akshay Gupta` :point_left:
+# `Akshay Gupta`
 
 :email: `guptaaks@iu.edu` :telephone_receiver: `+1 415-568-0632`
 
