@@ -10,18 +10,18 @@
 
 #### `Indiana University` `(May’21)`
 
->__`Master of Science in Computer Science`__
->
->`Bloomington, Indiana, USA`
->
->`Coursework:`
->`Applied Distributed Systems, Cloud Computing, Data Structures & Algorithms, Artificial Intelligence, Human Computer Interaction, Database Design`
+__`Master of Science in Computer Science`__
+
+`Bloomington, Indiana, USA`
+
+`Coursework:`
+`Applied Distributed Systems, Cloud Computing, Data Structures & Algorithms, Artificial Intelligence, Human Computer Interaction, Database Design`
 
 #### `Indian Institute of Technology (IIT) Bombay` `(Nov’15)`
 
->__`Bachelor of Technology in Mechanical Engineering`__
->
->`Mumbai, Maharashtra, India`
+__`Bachelor of Technology in Mechanical Engineering`__
+
+`Mumbai, Maharashtra, India`
 
 ---
 
